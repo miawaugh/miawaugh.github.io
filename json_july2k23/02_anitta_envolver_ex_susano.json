@@ -5,9 +5,9 @@
       "initialize_sdk_backup_ads":"xxxxx",
       "url_keyboard":"https://tersepona.github.io/keyboard/keyboard.json",
 
-      "main_ads_intertitial":"xxxxx",
-      "main_ads_natives":"xxxxx",
-      "open_ads_admob":"xxxxx",
+      "main_ads_intertitial":"ca-app-pub-3949267698678900/8638719252",
+      "main_ads_natives":"ca-app-pub-3949267698678900/5765143904",
+      "open_ads_admob":"ca-app-pub-3949267698678900/6860988754",
       "main_ads_rewards":"xxxxx",
 
       "backup_ads_natives":"xxxxx",
